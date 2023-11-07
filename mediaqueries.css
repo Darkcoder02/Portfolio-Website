@@ -100,5 +100,8 @@
     .text-container {
       text-align: justify;
     }
+    #experience {
+      padding:1rem;
+    }
   }
   
