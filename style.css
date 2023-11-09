@@ -450,6 +450,8 @@ footer p {
     color: white;
     padding: 20px 20px;
     border-radius: 10px;
+    box-shadow: 0px 0px 199px -7px rgba(0,0,0,0.55);
+
 }
 
 .experience-card img{
@@ -468,4 +470,8 @@ footer p {
 .experience-card ul{
     color: gray;
     padding: 5px;
+}
+
+#skills {
+  position: relative;
 }
